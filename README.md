@@ -158,3 +158,19 @@ This project uses **Python** and **Pandas** to analyze a sleep survey dataset, a
 * **Python**
 * **Pandas**
 ***
+
+
+### **Tableau Customer Churn Analysis for Databel**
+
+This project analyzes a telecommunications dataset to identify the key drivers of customer churn. Using **Tableau**, the analysis visualizes churn patterns based on customer demographics, contract types, and service usage to inform effective retention strategies. Churn is a critical metric for subscription-based companies like Databel. 📊
+
+#### **Method & Objective**
+
+* **Objective**: To build interactive dashboards in Tableau that pinpoint high-risk customer segments and uncover the primary reasons for attrition.
+* **Method**: The analysis uses a Tableau workbook (`.twbx`) to explore the `Databel - Data.csv` dataset. By visualizing relationships between variables like `Contract Type`, `Monthly Charge`, and `Churn Reason`, the dashboards are designed to reveal actionable insights. The `Metadata.pdf` file provides the data dictionary for the dataset.
+* **Key Insight**: The visualization aims to highlight critical trends, such as identifying that customers on **'Month-to-Month'** contracts or those who churn due to **competitor offers** are key segments that require targeted retention efforts.
+
+#### **Tools Used**
+
+* **Tableau**
+***
