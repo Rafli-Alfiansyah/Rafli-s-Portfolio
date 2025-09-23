@@ -105,7 +105,7 @@ This project uses **SQL** to analyze sales data, calculating monthly net revenue
 ***
 
 
-## [Project 7:Analysis of Product Carbon Footprints by Industry](https://github.com/Rafli-Alfiansyah/Analyzing-Industry-Carbon-Emissions)
+## [Project 7: Analysis of Product Carbon Footprints by Industry](https://github.com/Rafli-Alfiansyah/Analyzing-Industry-Carbon-Emissions)
 
 This project uses **SQL** to analyze a product emissions database, identifying which industry groups have the largest carbon footprints based on the most recent year of data.  GHG emissions from consumer products are a major contributor to climate change, and this analysis pinpoints the most impactful sectors. 🏭
 
@@ -122,7 +122,7 @@ This project uses **SQL** to analyze a product emissions database, identifying w
 ***
 
 
-## [Project 8:Netflix Movie Analysis: A 1990s Throwback](https://github.com/Rafli-Alfiansyah/Investigating-Netflix-Movies)
+## [Project 8: Netflix Movie Analysis: A 1990s Throwback](https://github.com/Rafli-Alfiansyah/Investigating-Netflix-Movies)
 
 This project uses **Python** to perform an exploratory data analysis on Netflix's library of movies from the 1990s. The goal was to uncover trends, such as typical film durations and niche genres, to inform a production company specializing in nostalgic content. 🎞️
 
@@ -140,7 +140,7 @@ This project uses **Python** to perform an exploratory data analysis on Netflix'
 * **Seaborn**
 ***
 
-## [Project 9:Sleep Health Data Analysis](https://github.com/Rafli-Alfiansyah/Getting-a-Good-Night-s-Sleep)
+## [Project 9: Sleep Health Data Analysis](https://github.com/Rafli-Alfiansyah/Getting-a-Good-Night-s-Sleep)
 ### **Analysis of Sleep Health and Lifestyle Data**
 
 This project uses **Python** and **Pandas** to analyze a sleep survey dataset, aiming to uncover key relationships between lifestyle factors (like occupation and BMI) and sleep quality. 😴
@@ -160,7 +160,7 @@ This project uses **Python** and **Pandas** to analyze a sleep survey dataset, a
 ***
 
 
-### **Tableau Customer Churn Analysis for Databel**
+## [Project 10: Tableau Customer Churn Analysis for Databel](http://public.tableau.com/app/profile/rafli.alfiansyah6870/viz/DatabelProject_17585512156820/StoryofDatabel)
 
 This project analyzes a telecommunications dataset to identify the key drivers of customer churn. Using **Tableau**, the analysis visualizes churn patterns based on customer demographics, contract types, and service usage to inform effective retention strategies. Churn is a critical metric for subscription-based companies like Databel. 📊
 
