@@ -205,3 +205,32 @@ The treemap visualization breaks down the most common genres within the dataset.
 #### **Tools Used**
 
 * **Tableau**
+
+
+## [Project 12: Film & TV Content Production and Rating Analysis](https://public.tableau.com/views/DV-CH1L2-VM1_17592092109460/IMDBAnalysisPart2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+This dashboard reveals a compelling story about the performance of different production types, with a clear winner in terms of audience appreciation. The main insight is that **TV Series consistently achieve higher average ratings than Films**, even though their quality can be more varied.
+
+### The Rating Divide: TV Series Reign Supreme
+
+The clearest takeaway comes from the distribution of ratings.
+
+* **TV Series** have the highest median **average rating**, clustering around **7.0 out of 10**. This makes them the critical darlings compared to other formats. However, their ratings are also the most spread out, suggesting a "high-risk, high-reward" format—some are major hits, while others are misses.
+* **Films**, in contrast, are a much more predictable format. Their ratings are tightly packed around a lower median of approximately **6.0**. This indicates a consistent, but less impressive, reception from audiences.
+
+### A Closer Look at Duration and Genre
+
+The scatter plot confirms these findings and adds detail about content strategy.
+
+* **Genre Blending:** Most productions (over 60%) are categorized as **multi-genre**, showing that combining styles is the dominant industry practice.
+* **Duration and Quality:** Both **TV Series** and **TV Miniseries** tend to have longer durations and are where the highest ratings are found. Films and TV Movies typically have shorter runtimes and more average scores.
+
+### A Puzzling Production Trend
+
+The dashboard also points to a confusing production trend in the early 2000s. The data suggests a significant drop in the number of **TV Series** titles being produced between 2002 and 2005, while **TV Miniseries** saw modest growth.
+
+In summary, the data tells a story where **TV Series** are the ambitious, higher-rated format, while **Films** are the more conventional and predictably-rated option.
+
+#### **Tools Used**
+
+* **Tableau**
