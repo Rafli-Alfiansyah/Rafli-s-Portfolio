@@ -1,5 +1,5 @@
 # Rafli Alfiansyah Portfolio
-***
+
 
 
 ## [Project 1: An Investigation into Goal-Scoring Trends in International Soccer](https://github.com/Rafli-Alfiansyah/Hypothesis-Testing-with-Men-and-Women-Soccer-Matches)
@@ -17,7 +17,7 @@ A statistical analysis to validate the hypothesis that more goals are scored in 
 Since the p-value (0.0051) is significantly less than $\alpha$ (0.10), the null hypothesis is **rejected**. The data provides strong statistical evidence that, in the modern era, **more goals are scored in women's World Cup matches than in men's**. ⚽
 
 **Tool Used**: Python
-***
+
 
 
 ## [Project 2: SAT Performance Analysis in New York City Public Schools](https://github.com/Rafli-Alfiansyah/Exploring-NYC-Public-School-Test-Result-Scores)
@@ -34,7 +34,7 @@ This project analyzes SAT performance data (`schools.csv`) from NYC public high 
 
 * **Python**
 * **Pandas**
-***
+
 
 
 ## [Project 3: Analysis of Student Exam Performance](https://github.com/Rafli-Alfiansyah/Factors-that-Fuel-Student-Performance)
@@ -46,7 +46,7 @@ This project uses **SQL** to analyze a student dataset to identify the key facto
 * **Key Insight**: The number of **hours studied** showed the strongest positive correlation with higher exam scores. Students studying **16+ hours** averaged a score of **67.92**, significantly higher than the **62.63** average for those studying **1-5 hours**.
 
 **Tools & Skills**: **SQL** (Data Aggregation, Window Functions, Conditional Filtering, Data Segmentation).
-***
+
 
 
 ## [Project 4: The Search for the Golden Age of Video Games](https://github.com/Rafli-Alfiansyah/When-Was-the-Golden-Era-of-Video-Games-)
@@ -71,7 +71,7 @@ Using SQL queries, this analysis aimed to answer several key questions:
 #### **Tools Used**
 
 * **SQL**
-***
+
 
 
 ## [Project 5: Analysis of Electric Vehicle Charging Habits](https://github.com/Rafli-Alfiansyah/Analyzing-Electric-Vehicle-Charging-Habits)
@@ -88,7 +88,7 @@ This project uses **SQL** to analyze a dataset of EV charging sessions from apar
 * **Recommendations**: The findings suggest installing more stations in high-demand garages, implementing reservation systems for peak hours, and creating fair-use policies like idle fees to improve availability.
 
 **Tools**: **SQL (PostgreSQL)**
-***
+
 
 
 ## [Project 6: Motorcycle Parts Sales Analysis](https://github.com/Rafli-Alfiansyah/Analyzing-Motorcycle-Part-Sales)
@@ -102,7 +102,7 @@ This project uses **SQL** to analyze sales data, calculating monthly net revenue
 * **Insight**: The analysis successfully identified top-performing segments, such as the **Engine** product line at the **Central** warehouse in August, which generated **$9,528.71**.
 
 **Tools**: **SQL**
-***
+
 
 
 ## [Project 7: Analysis of Product Carbon Footprints by Industry](https://github.com/Rafli-Alfiansyah/Analyzing-Industry-Carbon-Emissions)
@@ -119,7 +119,7 @@ This project uses **SQL** to analyze a product emissions database, identifying w
 
 * **SQL (PostgreSQL)**
 * **Jupyter Notebook**
-***
+
 
 
 ## [Project 8: Netflix Movie Analysis: A 1990s Throwback](https://github.com/Rafli-Alfiansyah/Investigating-Netflix-Movies)
@@ -138,7 +138,7 @@ This project uses **Python** to perform an exploratory data analysis on Netflix'
 * **Pandas**
 * **Matplotlib**
 * **Seaborn**
-***
+
 
 ## [Project 9: Sleep Health Data Analysis](https://github.com/Rafli-Alfiansyah/Getting-a-Good-Night-s-Sleep)
 ### **Analysis of Sleep Health and Lifestyle Data**
@@ -157,7 +157,7 @@ This project uses **Python** and **Pandas** to analyze a sleep survey dataset, a
 
 * **Python**
 * **Pandas**
-***
+
 
 
 ## [Project 10: Tableau Customer Churn Analysis for Databel](http://public.tableau.com/app/profile/rafli.alfiansyah6870/viz/DatabelProject_17585512156820/StoryofDatabel)
@@ -173,4 +173,35 @@ This project analyzes a telecommunications dataset to identify the key drivers o
 #### **Tools Used**
 
 * **Tableau**
-***
+
+
+## [Project 11: Production Trends & Audience Engagement Analysis](https://public.tableau.com/views/DV-CH1L1-VM1_17592089574340/IMDBAnalysisPart1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+This dashboard provides an analysis of film and TV production trends, focusing on the years **2000 to 2015**. The key takeaway is a significant peak in production volume and audience voting in the early 2000s, followed by a decline in quantity but a rise in average ratings in subsequent years.
+
+### **Production and Popularity Peak (Early 2000s)**
+
+The data clearly shows that the period from **2001 to 2005** was the most active for production.
+
+* **Number of Titles:** The number of titles produced, predominantly **Films**, reached its highest point between 2003 and 2005.
+* **Audience Engagement:** The number of votes cast for these titles also peaked during this era, with the highest engagement seen from 2001 to 2003.
+
+After 2006, both the number of titles produced and the volume of votes show a sharp and steady decline.
+
+### **A Shift from Quantity to Quality**
+
+An interesting trend emerges when comparing production volume to audience ratings. While the number of titles and votes decreased significantly after the mid-2000s, the **average rating** showed an upward trend.
+
+The average rating fluctuated in the early 2000s but began to climb steadily after 2011, reaching a peak of **6.8 out of 10** in 2018. This suggests a potential shift in the industry or the dataset, where fewer titles were produced, but their perceived quality was higher.
+
+### **Genre Landscape**
+
+The treemap visualization breaks down the most common genres within the dataset.
+
+* **Most Common Genres:** **Drama** is the most frequently produced genre, followed by **Comedy**, **Action**, and **Crime**.
+* **Highest Rated Genres:** Based on the color intensity, genres like **Crime** and **Adventure** appear to have a higher average rating than others.
+* **Dominant Type:** Across nearly all genres, **Films** are the most common type of production, far outnumbering TV Series or Miniseries.
+
+#### **Tools Used**
+
+* **Tableau**
