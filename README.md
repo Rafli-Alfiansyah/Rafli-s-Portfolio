@@ -334,7 +334,7 @@ The dashboard presents information in three distinct layers of granularity.
 * **Tableau**
 
 
-## [Project 17: Exploring Barcelona's Neighborhoods: An Interactive Retreats Dashboard](https://public.tableau.com/views/4_6_actionable_dashboard-sol_new_17595079308700/BarcelonaHighlights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## [Project 18: Exploring Barcelona's Neighborhoods: An Interactive Retreats Dashboard](https://public.tableau.com/views/4_6_actionable_dashboard-sol_new_17595079308700/BarcelonaHighlights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 This interactive dashboard from "Barcelona Retreats" serves as a guided tool for users to explore and compare different neighborhoods in Barcelona. The dashboard cleverly uses interactivity, starting with a locked, high-level view that prompts the user to click on a map to "unlock further insights" and reveal detailed, interconnected data visualizations.
 
