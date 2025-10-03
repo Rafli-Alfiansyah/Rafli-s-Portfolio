@@ -234,3 +234,128 @@ In summary, the data tells a story where **TV Series** are the ambitious, higher
 #### **Tools Used**
 
 * **Tableau**
+
+
+## [Project 13: A Snapshot of the Film Industry: Workforce and Production Trends](https://public.tableau.com/views/DV-CH2L1-VM1_17595027784820/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+This dashboard analyzes the film industry's workforce and production trends, revealing a major production boom in the mid-2000s alongside distinct demographic and structural patterns. The analysis visualizes career lifecycles, historical production volumes, and the key differences between media formats like film and TV to provide a comprehensive industry snapshot.
+
+### Key Findings
+
+* **Workforce Demographics:** The data reveals clear career patterns. **Actors** and **Managers** are the most numerous professions, while roles like **Publicists** (avg. age 46) trend younger than creative leadership positions like **Directors** and **Writers** (avg. age 64-65).
+
+* **The Production Peak:** A massive surge in content creation occurred across all genres, peaking dramatically in **2004-2005**. This was followed by a sharp and sustained decline, suggesting a major industry shift or contraction.
+
+* **Format Differences:** **Films** consistently follow a standard feature-length runtime of 90-150 minutes. In contrast, **TV Series** are structured around shorter, episodic lengths, showing a clear and fundamental distinction in their production models.
+
+#### **Tools Used**
+
+* **Tableau**
+
+## [Project 14: Interactive Film Genre and Popularity Analysis](https://public.tableau.com/views/DV-CH2L2-VM1_17595044718180/FilmBrowser?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+This Tableau dashboard provides an interactive tool for exploring film and TV titles, with a strong focus on genre distribution, audience engagement, and advanced contextual tooltips. The dashboard effectively blends high-level summaries with deep-dive capabilities, allowing users to investigate specific titles in detail.
+
+### Genre and Popularity Landscape
+
+The dashboard reveals key trends in genre prevalence and audience popularity.
+
+* **Dominant Genres:** The word cloud clearly shows that **Drama**, **Comedy**, **Romance**, and **Thriller** are the most common genres within the dataset, indicating a focus on popular narrative-driven content.
+* **Top Voted Titles:** The list of titles by IMDB votes is topped by well-known documentaries and series, with **"Planet Earth"** leading at over 168,000 votes. This is followed by other non-fiction works like **"Bowling for Columbine"** and **"Fahrenheit 9/11"**, suggesting the dataset has a strong representation of the documentary genre.
+
+### Advanced Interactive Features
+
+A key strength of this dashboard is its use of "viz in tooltip" to provide rich, on-demand context.
+
+* **Embedded Wikipedia Articles:** When a user interacts with a title like "Planet Earth," a tooltip appears displaying the entire **Wikipedia article** for that subject. This allows for immediate research without leaving the dashboard.
+* **Nested Visualizations:** The dashboard also uses tooltips to display secondary visualizations. For example, hovering over an item can reveal a bar chart showing the number of titles associated with key personnel, such as directors or producers.
+
+In summary, this is a powerful analytical tool that combines genre and popularity data with unique, interactive features to create a rich and exploratory user experience.
+
+#### **Tools Used**
+
+* **Tableau**
+
+## [Project 15: Geospatial Analysis of Urban Property Listings](https://public.tableau.com/views/3_1_basic_maps_new_17595049510650/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+This Tableau dashboard showcases four different geospatial visualization techniques to analyze property listings within a coastal city. Each map provides a unique perspective on the data, moving from a simple distribution of listings to a complex, multi-layered analysis of neighborhood characteristics. The dashboard is a powerful demonstration of how different mapping styles can be used to uncover distinct insights from the same dataset.
+
+### Four Perspectives on Geospatial Data
+
+The dashboard effectively uses four map styles to explore the data:
+
+* **Basic Scatter Plot Map:** This map displays the raw **distribution and density** of individual property listings. It clearly shows that listings are heavily concentrated in the central and coastal areas of the city. 
+* **Beautified Boundary Map:** This clean, minimalist map highlights the city's **administrative structure**, such as neighborhood boundaries. It is best used for showing high-level, aggregated data, like a city-wide average, without the clutter of individual points.
+
+* **Overlaid Pie Chart Map:** This is the most information-dense visualization. It overlays **pie charts** on different neighborhoods to show proportional data at a glance. For example, it can be used to compare the percentage of verified versus non-verified hosts across different parts of the city, offering deeper insights into regional characteristics.
+
+* **Mixed Polygon Map:** This map style provides a **fully aggregated view**, shading an entire region to represent a single, unified metric. It is ideal for displaying a top-level summary, such as the average price for the entire city.
+
+#### **Tools Used**
+
+* **Tableau**
+  
+
+## [Project 16: Visualizing the Visitor Journey in a Museum](https://public.tableau.com/views/DV-CH3L2-VM1_17595071919300/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+This dashboard provides a multi-layered analysis of visitor traffic and flow within a museum, transforming raw location data into actionable insights. By visualizing not only where visitors congregate but also when and how they move through the space, the dashboard serves as a powerful tool for optimizing operations and enhancing the visitor experience.
+
+### From Static Hotspots to Dynamic Flow
+
+The analysis progresses through several layers of visualization to build a complete picture of visitor behavior.
+
+* **Identifying Visitor Hotspots:** The initial view provides a static, high-level overview of visitor density. By using bubble charts overlaid on the museum floor plan, it immediately identifies which exhibits and areas, such as the **"Peter Dawson paintings"** and the **"Patio right,"** are the most consistently crowded. This is crucial for managing capacity and understanding exhibit popularity.
+
+* **Understanding Daily Rhythms:** The dashboard becomes dynamic by animating visitor traffic on an hourly basis. This allows managers to see how crowd density shifts throughout the day. For example, one can observe that the **Museum Shop** becomes a major hotspot in the afternoon, which helps in optimizing staffing schedules and resource allocation.
+
+* **Mapping the Visitor Journey:** The most advanced visualization reveals the **actual paths** visitors take as they navigate the museum. By tracing common routes, such as "Path A" and "Path B," the museum can understand visitor flow, identify potential bottlenecks, and strategically design the layout of exhibitions to guide visitors more effectively from one area to the next.
+
+#### **Tools Used**
+
+* **Tableau**
+
+
+## [Project 17: Neighborhood Performance Analysis for Rental Properties](https://public.tableau.com/shared/CP9D67NGX?:display_count=n&:origin=viz_share_link)
+
+This dashboard provides a multi-faceted analysis of rental property performance across various city neighborhoods. It uses a combination of unique and effective visualizations to display a high-level aggregate score, track historical trends, and conduct a detailed comparative analysis of pricing, allowing for a deep understanding of market dynamics at the neighborhood level.
+
+### From a Single Score to Detailed Comparisons
+
+The dashboard presents information in three distinct layers of granularity.
+
+* **High-Level Performance Snapshot:** At the top, a **Waffle Chart** serves as a clear and immediate Key Performance Indicator (KPI). It visually represents the overall **average percentage score of 77.5%**, offering a quick, easy-to-digest summary of the current performance across all selected properties.
+
+* **Historical Trends at a Glance:** A series of **Sparklines** provides a concise historical view of performance for each neighborhood from 2018 to 2022. This format is excellent for quickly comparing trends side-by-side and identifying patterns, such as a noticeable performance dip seen in several top neighborhoods during 2020-2021.
+
+* **Comparative Price Analysis:** A **DNA Chart** (or dumbbell plot) is used to compare the average price range within each neighborhood. This chart excels at showing disparity. For instance, it highlights that **Sant Martí** and **Sarrià-Sant Gervasi** are the most expensive neighborhoods with the widest price variations, while **Nou Barris** is clearly the most affordable option.
+
+#### **Tools Used**
+
+* **Tableau**
+
+
+## [Project 17: Exploring Barcelona's Neighborhoods: An Interactive Retreats Dashboard](https://public.tableau.com/views/4_6_actionable_dashboard-sol_new_17595079308700/BarcelonaHighlights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+This interactive dashboard from "Barcelona Retreats" serves as a guided tool for users to explore and compare different neighborhoods in Barcelona. The dashboard cleverly uses interactivity, starting with a locked, high-level view that prompts the user to click on a map to "unlock further insights" and reveal detailed, interconnected data visualizations.
+
+### **An Interactive, Multi-Layered Analysis**
+
+The dashboard's strength lies in its use of cross-filtering, where selecting a neighborhood in one chart updates all other visualizations to focus on that specific area.
+
+When a user first opens the dashboard, they are presented with a simple overview. After clicking on the main map, it transforms into a detailed choropleth map showing data for all neighborhoods. From there, selecting a specific neighborhood like **Eixample** instantly tailors the entire dashboard:
+
+* The **price comparison chart** highlights Eixample's data.
+* A **zoomable map** focuses on Eixample, showing the distribution of individual properties within its borders.
+* The **crime rate trendline** for Eixample is emphasized.
+
+### **Key Visualizations and Insights**
+
+The dashboard allows for a comprehensive comparison of neighborhoods based on several key metrics:
+
+* **Pricing Data**: A dumbbell plot effectively displays the minimum and average prices for each neighborhood. This chart clearly identifies areas like **Eixample** as having one of the highest average prices, while **Nou Barris** is the most affordable.
+* **Property Distribution**: Users can zoom in to see the density and specific locations of properties within any chosen neighborhood.
+* **Crime Rate Trends**: A series of sparklines provides a quick overview of whether crime rates are increasing or decreasing over time in each area, with red dots marking the most recent data points.
+
+#### **Tools Used**
+
+* **Tableau**
